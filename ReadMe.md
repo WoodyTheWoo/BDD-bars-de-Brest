@@ -9,7 +9,7 @@ Pour ensuite les intégrer dans une base de données SQlite.
 La BDD est au format SQlite et contient les champs suivants :
  - id : Id de l'entrée, Primary Key
  - name : Nom du bar, Not Null
- - address : Adresse longue du bar (<numéro> <rue>, <CP> <ville>, <pays>)
+ - address : Adresse longue du bar (numéro rue, CP ville, pays)
  - lat : coordonnée GPS latitude
  - lng : coordonnée GPS longitude
  - phone : numéro de téléphone au format local (02 98 ....)
