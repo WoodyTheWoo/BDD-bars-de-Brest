@@ -1,20 +1,23 @@
-# Base de données des bars de Brest
+# Base de donnÃ©es des bars de Brest
 
-Ce repo regroupe les fichiers Python utilisés pour la création de la base de données.
-J'ai utilisé l'API Google Maps pour construire un fichier JSON regroupant les lieux étant caractérisés comme "bar" par google.
-Pour ensuite les intégrer dans une base de données SQlite.
+Ce repo regroupe les fichiers Python utilisÃ©s pour la crÃ©ation de la base de donnÃ©es.
+J'ai utilisÃ© l'API Google Maps pour construire un fichier JSON regroupant les lieux Ã©tant caractÃ©risÃ©s comme "bar" par google.
+Pour ensuite les intÃ©grer dans une base de donnÃ©es SQlite.
 
-## Base de données
+## Base de donnÃ©es
 
 La BDD est au format SQlite et contient les champs suivants :
- - id : Id de l'entrée, PK
+ - id : Id de l'entrÃ©e, PK
  - name : Nom du bar, NN
- - address : Adresse longue du bar (<numéro> <rue>, <CP> <ville>, <pays>)
- - lat : coordonnée GPS latitude
- - lng : coordonnée GPS longitude
- - phone : numéro de téléphone au format local (02 98 ....)
+ - address : Adresse longue du bar (<numÃ©ro> <rue>, <CP> <ville>, <pays>)
+ - lat : coordonnÃ©e GPS latitude
+ - lng : coordonnÃ©e GPS longitude
+ - phone : numÃ©ro de tÃ©lÃ©phone au format local (02 98 ....)
  - website : adresse du site web
  - gmaps_id : id pour l'utilisation avec GMap
- - icon_url : url de l'icône utilisée par GMap
- - types : mots clés utilisés par GMap
+ - icon_url : url de l'icÃ´ne utilisÃ©e par GMap
+ - types : mots clÃ©s utilisÃ©s par GMap
 
+## Fichier
+Extraire le fichier suivant :
+https://github.com/WoodyTheWoo/BDD-bars-de-Brest/releases/download/v0.5/bars.zip
