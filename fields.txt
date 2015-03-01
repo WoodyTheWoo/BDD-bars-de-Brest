@@ -1,0 +1,11 @@
+Champ bar :
+	- Db id
+	- Nom
+	- Adresse
+	- Coord GPS
+	- Tel (local)
+	- Site web
+	- Google id
+	- URL icon
+	- Types (keyword)
+	

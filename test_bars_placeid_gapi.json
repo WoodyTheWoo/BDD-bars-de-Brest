@@ -1,0 +1,39 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 48.389309,
+               "lng" : -4.484182
+            }
+         },
+         "id" : "59c9a7c7e31d1c1b8357036fe4c0f5f9f0e1bbf1",
+         "place_id" : "ChIJAXJLK1-5FkgRt0OMFKo-7KU",
+         "reference" : "CnRhAAAAb1_sV0Sp6KnxtZLsus1FHIxeOmT3dtLG_fZt8ok8qtPYND1yGe9O9ggNCEP7RE33kn40JbloV0SUgrvjg49Ok9tn3fauyDJ62ZoxjfdfstAJflWShp_-VuvMq91HFOAmsIQKQttIN1hJIhAe0j0RkRIQakmI21AE3yO-ILjUx-d3SRoU7XajcNqo7CJpBlf4oWucWJJTgE8"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 48.390505,
+               "lng" : -4.490106
+            }
+         },
+         "id" : "64876a0191da6cb05716082e6806b9f2293a513a",
+         "place_id" : "ChIJzRd-HFi5FkgRweLK85XvKys",
+         "reference" : "CmRbAAAALjayeJfjKO2EpDOzA-m0E9R8-Gi7e0ptpT1nSJLM-IpahuOgELDJ-0qF1HjQupskV_hhN12l1xZC36vX_zl4aCUFOqIIgG_HAM2xT3MbZ2xW-RVj5j2d0jlZuJUj_CSgEhAEtR-J2lFZo11dihpcCS9MGhTgkhEH15UMFMXrhz4sntylo5B8ow"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 48.381706,
+               "lng" : -4.487866
+            }
+         },
+         "id" : "ecda6a8f0cfc23e764300fe0ea40ac5d049860f4",
+         "place_id" : "ChIJNToMU0W5FkgRCcxPyYqT5ro",
+         "reference" : "CnRsAAAAYauGSUB1hieEfebS0vJ8V4hKdah02lt8UWhQEAXpL0YWDudBOeEPV4qJyR6XfeMd19PP_h5779jdnRBc0SPSCSb8SIECJSC2eiskiy7S3LngnAbjRWUvWdpWBCZHfWVdzlg-Nm_WLe7YhDa8kKrIfRIQSrhQU_uiTlsvx2VFlAJHuBoUwQ5t2ZfistC7V97SDAbLymYWq54"
+      }
+   ],
+   "status" : "OK"
+}

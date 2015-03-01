@@ -1,0 +1,106 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "10",
+            "short_name" : "10",
+            "types" : [ "street_number" ]
+         },
+         {
+            "long_name" : "Rue de Siam",
+            "short_name" : "Rue de Siam",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Brest",
+            "short_name" : "Brest",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "France",
+            "short_name" : "FR",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "29200",
+            "short_name" : "29200",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003e10 Rue de Siam\u003c/span\u003e, \u003cspan class=\"postal-code\"\u003e29200\u003c/span\u003e \u003cspan class=\"locality\"\u003eBrest\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eFrance\u003c/span\u003e",
+      "formatted_address" : "10 Rue de Siam, 29200 Brest, France",
+      "formatted_phone_number" : "02 98 43 55 53",
+      "geometry" : {
+         "location" : {
+            "lat" : 48.385148,
+            "lng" : -4.493123
+         }
+      },
+      "icon" : "http://maps.gstatic.com/mapfiles/place_api/icons/bar-71.png",
+      "id" : "fc5b51390045298590c9d55a0c3e0fed8a6be8c7",
+      "international_phone_number" : "+33 2 98 43 55 53",
+      "name" : "Pub au Bureau",
+      "place_id" : "ChIJBdkBI1G5FkgRe_AX3JFiwXQ",
+      "reference" : "CmRgAAAAOt937eF2T0SfW_zUGjVlqh83m-oPJpq52cVzQ-vY6k-ZzDjDAJ1t4Rd-aIqXAr20nRMOFUmPYpTnZYy-htnQpkNW9ENUWJkZEljf_2wzGx3lf4Ic6vMsEhl5gjtpuCknEhATTMNryT8KFvVvfk9BEDkHGhQeOfXfYHhOBAUffimE8ZNlekRAzg",
+      "reviews" : [
+         {
+            "aspects" : [
+               {
+                  "rating" : 0,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "jean-luc Morvan",
+            "author_url" : "https://plus.google.com/107713617950560507850",
+            "language" : "fr",
+            "rating" : 2,
+            "text" : "repas banal  serveur froid verre ebreche ne conseil pas se restaurant ",
+            "time" : 1409730834
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "overall"
+               }
+            ],
+            "author_name" : "Un utilisateur de Google",
+            "language" : "fr",
+            "rating" : 3,
+            "text" : "On mange bien, prix abordables,  bonne embience chaleureues trép satisfait",
+            "time" : 1323461780
+         },
+         {
+            "aspects" : [
+               {
+                  "rating" : 1,
+                  "type" : "food"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "decor"
+               },
+               {
+                  "rating" : 1,
+                  "type" : "service"
+               }
+            ],
+            "author_name" : "Guillaume Pailler",
+            "author_url" : "https://plus.google.com/104383641065377774474",
+            "language" : "fr",
+            "rating" : 3,
+            "text" : "",
+            "time" : 1356656896
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "bar", "restaurant", "food", "establishment" ],
+      "url" : "https://plus.google.com/102538258958605095050/about?hl=fr-FR",
+      "user_ratings_total" : 3,
+      "utc_offset" : 60,
+      "vicinity" : "10 Rue de Siam, Brest",
+      "website" : "http://www.aubureau.fr/"
+   },
+   "status" : "OK"
+}
